@@ -3,8 +3,17 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
-    color:maroon;
+    color:black;
 }
 .about{
     color:maroon;
+}
+.skills{
+    color:rgb(142, 104, 10);
+}
+.projects{
+    color:maroon;
+}
+.contact{
+    color:rgb(142, 104, 10);
 }
