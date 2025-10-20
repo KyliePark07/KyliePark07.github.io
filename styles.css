@@ -26,3 +26,10 @@ padding: 20px 10px;
 background: white; /* pick a color */
 border-radius: 25%;
 }
+.project img {
+  width: 100%;
+  height: auto;
+  display: block;
+  max-width: 100%;
+}
+
