@@ -64,6 +64,14 @@ h1 {
 	font-weight:bold;
 	text-align:left;
 }
+.github-img {
+  width: 200px;
+  height: auto;
+  margin: 10px auto;
+  border: 2px solid black;
+  display: block;
+}
+
 
 
 
