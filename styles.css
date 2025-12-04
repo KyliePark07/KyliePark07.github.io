@@ -2,6 +2,18 @@ body {
 	background:dark pink;
 	font-family: Arial, Helvetica, sans-serif;
 }
+.about img {
+    /* adjust your image sizes as needed */
+    width: 300px;
+    height: 300px;
+	object-fit:cover; /*I googled how to make the images not distorted and this line is attributed to CoPilot*/
+    margin: 10px auto;
+    border: 2px solid black;
+    display: block;
+    /* center the images inside the blobs */
+    text-align: center;
+	border-radius:20px;
+}
 h1 {
     color: white;
 	text-align: center;
@@ -31,11 +43,13 @@ h1 {
     /* adjust your image sizes as needed */
     width: 400px;
     height: 300px;
+	object-fit:cover; /*I googled how to make the images not distorted and this line is attributed to CoPilot*/
     margin: 10px auto;
     border: 2px solid black;
     display: block;
     /* center the images inside the blobs */
     text-align: center;
+	border-radius: 20px;
 }
 .project p {
     /* center the p text in the blob */
@@ -50,6 +64,7 @@ h1 {
 	font-qeight:bold;
 	text-align:left;
 }
+
 
 
 
