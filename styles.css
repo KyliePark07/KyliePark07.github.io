@@ -64,13 +64,16 @@ h1 {
 	font-weight:bold;
 	text-align:left;
 }
-.github-img {
+.project img.github-img {
   width: 200px;
   height: auto;
+  object-fit: cover;
   margin: 10px auto;
   border: 2px solid black;
   display: block;
+  border-radius: 20px;
 }
+
 
 
 
