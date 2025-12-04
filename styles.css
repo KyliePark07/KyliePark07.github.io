@@ -15,7 +15,7 @@ body {
 	border-radius:20px;
 }
 h1 {
-    color: white;
+    color: rgb(83, 5, 40);
 	text-align: center;
 }
 .projects { 
@@ -31,7 +31,7 @@ h1 {
     width: 30%;
     margin: 10px;
     padding: 20px 10px;
-    background: pastel pink;
+    background: pastel rgb(235, 211, 215);
     /* rounded corners for the blobs */
     border-radius: 25%;
 }
@@ -45,7 +45,7 @@ h1 {
     height: 300px;
 	object-fit:cover; /*I googled how to make the images not distorted and this line is attributed to CoPilot*/
     margin: 10px auto;
-    border: 2px solid black;
+    border: 2px solid rgb(53, 1, 16);
     display: block;
     /* center the images inside the blobs */
     text-align: center;
@@ -61,7 +61,7 @@ h1 {
 	margin-top: 20px;
 	margin-bottom:10px;
 	font-size:1.5em;
-	font-qeight:bold;
+	font-weight:bold;
 	text-align:left;
 }
 
