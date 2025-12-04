@@ -31,7 +31,7 @@ h1 {
     width: 30%;
     margin: 10px;
     padding: 20px 10px;
-    background: pastel rgb(235, 211, 215);
+    background: rgb(235, 211, 215);
     /* rounded corners for the blobs */
     border-radius: 25%;
 }
@@ -73,6 +73,7 @@ h1 {
   display: block;
   border-radius: 20px;
 }
+
 
 
 
