@@ -1,9 +1,9 @@
 body {
-	background:rgb(228, 220, 207);
+	background:dark pink;
 	font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
-    color: pink;
+    color: white;
 	text-align: center;
 }
 .projects { 
@@ -19,7 +19,7 @@ h1 {
     width: 30%;
     margin: 10px;
     padding: 20px 10px;
-    background: white;
+    background: pastel pink;
     /* rounded corners for the blobs */
     border-radius: 25%;
 }
@@ -42,6 +42,7 @@ h1 {
     text-align: center;
     margin: 15px;
 }
+
 
 
 
